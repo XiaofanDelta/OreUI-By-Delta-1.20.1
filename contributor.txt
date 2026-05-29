@@ -30,3 +30,4 @@ Delta,modularrouters
 Delta,chunkbychunk
 Delta,ftbquests(JEI适配)
 Delta,ae2(JEI适配)
+Delta,farmersdelight(JEI适配)
