@@ -27,8 +27,8 @@ https://www.curseforge.com/minecraft/texture-packs/oreui-for-everyone/
    > *其中, `gameRoot` 是您刚才安装的版本的工作目录, 而 `targetPath` 则是运行时的部署目标*
 4. 使用启动器的导出启动脚本功能, 导出 `client.ps1` PowerShell脚本, 放置于 `./shulker/local/` 下
 
-    > [!TIP]
-    > 如果您的启动器不支持导出启动脚本, 也没关系! 您可以使用 `./srdk monitor` 来部署并开始监听变更, 您只需要在您的启动器手动启动客户端即可
+> [!TIP]
+> 如果您的启动器不支持导出启动脚本, 也没关系! 您可以使用 `./srdk monitor` 来部署并开始监听变更, 您只需要在您的启动器手动启动客户端即可
 
 
 5. 完成! 现在您可以使用终端执行 `./srdk dev` 来启动您刚才安装的客户端, 项目将会被自动部署到位
